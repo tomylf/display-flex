@@ -1,0 +1,90 @@
+
+.container{
+    background: #273978;
+    width: 50%;
+    margin: 2vh auto;
+    font-family: 'Koulen', cursive;
+    font-family: 'Rubik Glitch', cursive;
+    font-family: 'Shadows Into Light', cursive;
+    color: white;
+    padding: 1% 0;
+    text-align: center;    
+}
+
+h1{
+    font-size: 4em;
+    margin: 0 auto 1vh;
+    text-align: center;
+    margin-bottom: 1vh;
+}
+
+main{
+    width: 90%;
+    margin: auto;
+
+}
+
+.clear{
+    clear: both;
+}
+
+figure{ 
+    text-decoration: none; 
+    color: #fff;
+    line-height: 2.7rem; 
+    padding: 0em 2em; 
+    font-size: 1.2em;
+    transition: 2s;
+}
+
+figure:hover{
+    background: white;
+    color: #273978;
+}
+
+figure{
+    width: 25%;
+    margin: 1vh 2vw;
+    float: left;
+}
+
+figcaption{
+    font-size: 1.5em;
+}
+
+img{
+    width: 200px;
+}
+
+.container{
+    background: #273978;
+    width: 50%;
+    margin: 2vh auto;
+    font-family: 'Macondo', cursive;
+    color: white;
+    padding: 1% 0;
+    text-align: center;
+}
+h1 {
+    font-size: 4em;
+    text-align: center;
+    margin-bottom: 1vh;
+}
+main{
+    width: 90%;
+    margin: auto;
+}
+figure {
+    float: left;
+    width: 22%;
+    margin: 1vh 2vw;
+}
+figcaption {
+    font-size: 1.5em;
+}
+img {
+    width: 200px;
+}
+.clear{
+    clear: both;
+}
